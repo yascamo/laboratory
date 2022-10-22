@@ -12,4 +12,4 @@ p = (a + b + c) / 2
 s = (p * (p - a) * (p - b) * (p - c)) ** (1 / 2)
 if s > smax:
 smax = s
-print("Максимальная площадь треугольника", smax)
+print("Max s of triangle", smax)
